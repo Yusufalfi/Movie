@@ -2,7 +2,7 @@
 git clone https://github.com/Yusufalfi/Movie.git
 
 # enter to your folder
-cd <name folder>/ cd Movie
+ cd Movie
   
 # update npm install
   npm install
