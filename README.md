@@ -1,8 +1,8 @@
 # clone the code 
-git clone 
+git clone https://github.com/Yusufalfi/Movie.git
 
 # enter to your folder
-cd <name folder>
+cd <name folder>/ cd Movie
   
 # update npm install
   npm install
